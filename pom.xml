@@ -6,7 +6,7 @@
     <groupId>ABCD</groupId>
     <artifactId>PROJECT1.1</artifactId>
     <version>ABC12</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>PROJECT1.1</name>
     <url>http://maven.apache.org</url>
